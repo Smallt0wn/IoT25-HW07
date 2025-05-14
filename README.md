@@ -46,7 +46,7 @@ At distances of 2 m and 4 m, the BLE-based estimator achieved its best accuracy,
 
 ## HW07_2_1 : Bouns 1 add
 ![스크린샷 2025-05-15 060145](https://github.com/user-attachments/assets/706b18c0-abf5-42ba-b6b6-aab644135f15)
-![KakaoTalk_20250515_060257335](https://github.com/user-attachments/assets/c9fbc904-1ac9-4c3f-9a97-43ff1206b19a)
+![KakaoTalk_20250515_060257335](https://github.com/user-attachments/assets/6b0e8fc2-c576-4f96-ac82-664c53fa5081)
 
 ## HW07_2_2 : Bonus 2 add
 ![KakaoTalk_20250515_045954056](https://github.com/user-attachments/assets/0ec1a259-753e-4042-9d32-8b4bb0ce998b)
