@@ -1,2 +1,2 @@
-# IoT_HW07
+# IoT-HW07
 Assignment of IoT HW
